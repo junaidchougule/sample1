@@ -4,6 +4,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
 // first change
+// save
 @Entity
 @Table(name ="add_info")
 public class Address {
