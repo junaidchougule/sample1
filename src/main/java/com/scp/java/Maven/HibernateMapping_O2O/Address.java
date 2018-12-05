@@ -3,7 +3,7 @@ package com.scp.java.Maven.HibernateMapping_O2O;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
-
+// first change
 @Entity
 @Table(name ="add_info")
 public class Address {
