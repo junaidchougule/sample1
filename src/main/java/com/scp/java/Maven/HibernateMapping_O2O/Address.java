@@ -5,6 +5,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 // first change
 // savevthbyhkjs
+//java
 @Entity
 @Table(name ="add_info")
 public class Address {
